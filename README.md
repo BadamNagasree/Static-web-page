@@ -11,3 +11,4 @@ Host a simple static website on GitHub Pages for free.
 
 ## 📦 Deliverables
 A **public GitHub repository** with your website live at:
+ https://badamnagasree.github.io/Static-web-page/
